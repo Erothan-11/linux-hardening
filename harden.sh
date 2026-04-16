@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright (c) 2025-2026 Fran Rudes (@Erothan-11)
+# SPDX-License-Identifier: GPL-3.0-or-later
 #====================================================================
 # Linux Hardening Script
 # Author: Fran Rudes (@Erothan-11)

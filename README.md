@@ -2,7 +2,7 @@
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL_3.0-blue?style=flat-square)
 
 Automated Linux hardening script based on CIS benchmarks. Configures SSH, firewall, kernel parameters, auditing, file permissions, fail2ban and more. Supports Debian/Ubuntu and RHEL/Rocky/CentOS.
 
